@@ -13,5 +13,5 @@ GIT
 
 ### CONTACTAME
 
-https://www.linkedin.com/in/harold-marcelo-criollo-bolivar/
+https://www.linkedin.com/in/harold-marcelo-criollo-bolivar/ |
 Harold_marcelo@hotmail.com
