@@ -1,5 +1,6 @@
-<h1 align="center">Hola 👋, Mi nombre es Marcelo Bolivar</h1>
-<h3 align="center">Técnico en Programación de software</h3>
+<h1>Hola 👋, Mi nombre es Marcelo Bolivar</h1>
+<h3>Acerca de mi</h3>
+<h4>Tecnico en Programcion de Software, que ama todo lo que hace, muy interesado en la innovación,y el desarrollo de software.</h4>
 
 - 📫 How to reach me **Harold_marcelo@hotmail.com**
 
