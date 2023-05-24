@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Mi nombre es Marcelo Bolivar</h1>
 <h3 align="center">Técnico en Programación de software</h3>
 
+- 📫 How to reach me **Harold_marcelo@hotmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harold-marcelo-criollo-bolivar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harold-marcelo-criollo-bolivar/" height="30" width="40" /></a>
