@@ -1,7 +1,9 @@
 <h1>Hola 👋, Mi nombre es Marcelo Bolivar</h1>
 <h3>Acerca de mi</h3>
 <h4> Tecnico en Programcion de Software | Desarrollador Fronted.<br><br>
- 💻 Ama todo lo que hace, muy interesado en la innovación y el desarrollo de software.</h4><br><br>
+ 💻 Disfruto afrontar nuevos retos y lo he hecho con proyectos personales usando Angular, MySQL, HTML, CSS, JavaScript, PHP, Bootstrap<br><br>
+
+Apasionado por la creación de interfaces de usuario visualmente impactantes e intuitivas que impulsen el crecimiento empresarial.</h4><br><br>
 
 - 📫 How to reach me **Harold_marcelo@hotmail.com**<br><br><br>
 
