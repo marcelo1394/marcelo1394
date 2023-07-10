@@ -1,7 +1,7 @@
 <h1>Hola 👋, Mi nombre es Marcelo Bolivar</h1>
 <h3>Acerca de mi</h3>
 <h4> Tecnico en Programcion de Software | Desarrollador Fronted.<br><br>
- 💻 Disfruto afrontar nuevos retos y lo he hecho con proyectos personales usando Angular, MySQL, HTML, CSS, JavaScript, PHP, Bootstrap<br><br>
+ 💻Técnico en Programación de Software | Desarrollador Frontend Disfruto afrontar nuevos retos y lo he hecho con proyectos personales usando Angular, HTML 5, CSS 3 JavaScript, TypeScript, POO, SQL, PHP, Bootstrap, Git<br><br>
 
 Apasionado por la creación de interfaces de usuario visualmente impactantes e intuitivas que impulsen el crecimiento empresarial.</h4><br><br>
 
